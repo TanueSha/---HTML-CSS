@@ -14,7 +14,7 @@ a {
 }
 .top_content {
     margin-top: 160px;
-    margin-buttom: 197px;
+    margin-bottom: 197px;
 }
 .subtitle {
     margin-bottom: 10px;
@@ -24,4 +24,7 @@ a {
 }
 .top_buttons {
     margin-top: 50px;
+}
+.top_logos {
+    background-color: rgb(87, 91, 91);
 }
